@@ -2,9 +2,11 @@
 
 ## Installing Formulas
 
-`brew install mbouaricha/goscany/<formula>`
+`brew install MarouaneBouaricha/releases/<formula>`
 
-Or `brew tap mbouaricha/goscany` and then `brew install <formula>`.
+Or 
+
+`brew tap MarouaneBouaricha/releases` and then `brew install <formula>`.
 
 ## Documentation
 
